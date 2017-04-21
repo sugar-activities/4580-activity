@@ -1,0 +1,8 @@
+[Activity]
+name = GoGoNews
+activity_version = 1
+show_launcher = 1
+bundle_id = com.gogonews.GoGoNews
+exec = sugar-activity activity.NewsActivity -s
+icon = activity-gogonews 
+license = GPLv3+
